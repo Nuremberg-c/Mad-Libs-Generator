@@ -1,1 +1,1 @@
-# Mad-_Libs_Generator
+# Mad-Libs-Generator
